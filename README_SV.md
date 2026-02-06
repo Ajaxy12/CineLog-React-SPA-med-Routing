@@ -160,19 +160,6 @@ Det här projektet demonstrerar:
 
 ---
 
-## 📝 Kodanteckningar
-
-För detaljerad kodkommentarer och förklaringar, se den **kommenterade versionen**:  
-`React-SPA-with-Routing - with commnets`
-
-Den versionen innehåller rad-för-rad-kommentarer som förklarar:
-- Hur React-hooks fungerar
-- Varför komponenter är strukturerade på det här sättet
-- API-integreringsmönster
-- State management-koncept
-
----
-
 ## ✓ Testkontrollista
 
 - [ ] Sök efter filmer fungerar
